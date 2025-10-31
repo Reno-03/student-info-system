@@ -156,9 +156,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 ## 👩‍💻 Author
 
 **Loreen Wilmer Yboa**  
-📚 BS Computer Science Student  
 💡 Data Structures and Algorithms Final Project  
-📅 2025  
+📅 2023
 
 ---
 
