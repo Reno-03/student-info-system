@@ -6,6 +6,10 @@
 A fully functional **Student Information System** written in **C++**, designed to manage and organize student records efficiently.  
 The system demonstrates key concepts in **Object-Oriented Programming (OOP)**, **Data Structures**, and **Algorithms**, specifically **Merge Sort** and **Linear Search**.
 
+Here’s how the Student Information System works:
+
+![Demo GIF](screenshots/demo.gif)
+
 ---
 
 ## 📘 Overview
