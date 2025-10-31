@@ -1,4 +1,4 @@
-# STUDENT INFORMATION SYSTEM
+# C++ Student Information System 
 
 ### Final Examination / Project in Data Structure and Algorithms
 
