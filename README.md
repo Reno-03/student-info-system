@@ -1,7 +1,7 @@
 # 🎓 C++ Student Information System
 
 > **Final Examination / Project in Data Structures and Algorithms**  
-> *Developed by: Loreen Wilmer Yboa*
+> *Developed by: Reno-03*
 
 A fully functional **Student Information System** written in **C++**, designed to manage and organize student records efficiently.  
 The system demonstrates key concepts in **Object-Oriented Programming (OOP)**, **Data Structures**, and **Algorithms**, specifically **Merge Sort** and **Linear Search**.
@@ -159,7 +159,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 
 ## 👩‍💻 Author
 
-**Loreen Wilmer Yboa**  
+**Reno-03**  
 💡 Data Structures and Algorithms Final Project  
 📅 2023
 
